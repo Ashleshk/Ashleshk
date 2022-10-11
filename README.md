@@ -1,20 +1,6 @@
-<h4>   
+Hi there, this is Ashlesh Khajbage! 
   
-<!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>  -->
-<div id="header" align="center"> 
-  
-  <div id="header" align="center">
-<!--     <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/> -->
-<!--     <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/>
-    <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/>
-    <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/>
-    <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="150"/> -->
-</h4>
-
-  Hi there, this is Ashlesh Khajbage! 
-  ---
-  
-### :sparkles: About Me :
+### sparkles: About Me :
 
 [:purple_heart:] I will graduate as Data Science from [Illinois Institute of Technology](https://www.iit.edu/), where I take courses including: [Applied Statistics](http://bulletin.iit.edu/search/?P=MATH%20564); Probabilities and Statistics; [Machine Learning](http://bulletin.iit.edu/search/?P=CS%20584); Big Data technologies; [Data Preparation and Analysis](http://bulletin.iit.edu/search/?P=CSP%20571); [Data Science Practicum](http://bulletin.iit.edu/search/?P=CSP%20572); [Deep Learning](http://bulletin.iit.edu/search/?P=CS%20577); Natural Language Processing; [Project Management](http://bulletin.iit.edu/search/?P=SCI%20511); Introduction to Algorithms;Monte Carlo Methods in Fin.
   
