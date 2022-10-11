@@ -134,8 +134,7 @@ Work Experience:
     </a>
 </p>
 
----
-### :📊 fire: My Stats :
+### 📊 fire: My Stats :
 
 <div id="github-stat" align="center">
   <a>
@@ -154,8 +153,7 @@ Work Experience:
 <a href="https://github.com/Ashleshk/github-readme-activity-graph"><img alt="Ashlesh Khajbage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashleshk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
- ---
- 
+
 ## Find me on:
 <p align="left">
 
@@ -170,10 +168,11 @@ HackerRank:  <a href="https://www.hackerrank.com/ashleshuk">hackerrank.com/ashle
   <a href = "https://www.instagram.com/ashlesh_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href = "https://www.instagram.com/ashlesh_k/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
- ---
+
+---
 <br/>
 </div>
 <div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=wendyZhang98&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Ashleshk&style=flat-square&color=blue" alt=""/>
 </div>
 
