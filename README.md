@@ -41,30 +41,35 @@ Work Experience:
 <div>
   <!--   # python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
+  <!--   # PowerBi -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/microsoft_powerbi_logo_icon_169958.svg" title="PowerBi" alt="PowerBi" width="100" height="60"/>&nbsp;
+  <!--   # TableaU -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/tableau_logo_icon_144818.svg" title="TableaU" alt="TableaU" width="60" height="60"/>&nbsp;
   <!--   # r -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="60" height="60"/>&nbsp;
   <!--   # pandas -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="80" height="80"/>&nbsp; 
   <!--   # pycharm -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="80" height="100"/>&nbsp; 
   <!--   # pytorch -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="80" height="100"/>&nbsp;
 <!--   # tensorflow -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="100" height="100"/>&nbsp;
   <!--   # kaggle -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="80" height="100"/>&nbsp;
 </div>
 
 ### Back-end
 <div>
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
   <!--   # mysql -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
   <!--   # sqlite -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/>&nbsp;
   <!--   # Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="60" height="60"/>&nbsp;
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" title="Spring" alt="spring" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </div>
 
@@ -83,6 +88,10 @@ Work Experience:
 
 ### Embeddded Programming
 <div>
+  <!--   # IoT -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/iot_button_icon_151911.svg" title="iot" alt="iot" width="60" height="60"/>&nbsp; 
+  <!--   # Drone -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/drone_electronic_devices_icon_229839.svg" title="Pluto-Drone" alt="Pluto-Drone" width="60" height="60"/>&nbsp; 
 <!--   # matlab -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="60" height="60"/>&nbsp; 
 <!--   # arduino -->
@@ -101,16 +110,19 @@ Work Experience:
   <!--   # github -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
   <!--   # aws -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="100" height="80"/>&nbsp;
   <!--   # anaconda -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="60" height="60"/>&nbsp;
-  <!--   # jupyter -->
+    <!--   # jupyter -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
-   <!--   # andriod -->
+   <!--   # heroku -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
+  <!--   # andriod -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="andriod" alt="andriod" width="60" height="60"/>&nbsp;
   <!--   # latex -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="60" height="60"/>&nbsp;  
-
+<!--   # Excel -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/1486565571-microsoft-office-excel_81549.svg" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
 </div>
 
 ---
