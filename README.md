@@ -48,15 +48,15 @@ Work Experience:
   <!--   # r -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="60" height="60"/>&nbsp;
   <!--   # pandas -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="80" height="80"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="80" height="60"/>&nbsp; 
   <!--   # pycharm -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="80" height="100"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="100" height="80"/>&nbsp; 
   <!--   # pytorch -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="80" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="100" height="80"/>&nbsp;
 <!--   # tensorflow -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="tensorflow" alt="tensorflow" width="100" height="80"/>&nbsp;
   <!--   # kaggle -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="80" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="100" height="80"/>&nbsp;
 </div>
 
 ### Back-end
@@ -74,8 +74,10 @@ Work Experience:
 </div>
 
 ### Front-end
-<div>   
-  <!--   # html5 -->
+<div> 
+  <!--   # Angular -->
+  <img src="https://github.com/Ashleshk/CERTIFICATES/blob/master/icons/angular_logo_icon_169595.svg" title="Angular 8" alt="Angular 8" width="60" height="60"/>&nbsp;
+   <!--   # html5 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> &nbsp;
