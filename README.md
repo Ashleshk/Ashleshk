@@ -145,15 +145,13 @@ Work Experience:
 
 ### 📊 fire: My Stats :
 
-<div id="github-stat" align="center">
-  <a>
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Ashleshk&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a></div>
-  <br/>
-  <div id="github-stat" align="center">
- <a href="https://github.com/Ashleshk/github-readme-stats"><img alt="Ashlesh Khajbage's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+&nbsp; &nbsp; &nbsp; [![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; 
+<a href="https://github.com/Ashleshk/github-readme-stats"><img alt="Ashlesh Khajbage's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div id="github-stat">
   
-</div>  
+
+  </div>
+
  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
@@ -180,8 +178,5 @@ HackerRank:  <a href="https://www.hackerrank.com/ashleshuk">hackerrank.com/ashle
 
 ---
 <br/>
-</div>
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashleshk&style=flat-square&color=blue" alt=""/>
-</div>
+
 
