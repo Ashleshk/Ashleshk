@@ -145,8 +145,8 @@ Work Experience:
 
 ### 📊 fire: My Stats :
 
-![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical&layout=compact&width=200px)&nbsp;
 ![Ashlesh Khajbage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical&layout=compact&width=200px)&nbsp;
 
 
  <br/>
