@@ -145,8 +145,9 @@ Work Experience:
 
 ### 📊 fire: My Stats :
 
-[![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical)]&nbsp;
-<a href="https://github.com/Ashleshk/github-readme-stats"><img alt="Ashlesh Khajbage's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical)&nbsp;
+![Ashlesh Khajbage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
 <div id="github-stat">
   
 
