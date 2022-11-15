@@ -145,13 +145,9 @@ Work Experience:
 
 ### 📊 fire: My Stats :
 
-![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical)&nbsp;
+![Ashlesh khajbage's github stats](https://github-readme-stats.vercel.app/api?username=Ashleshk&show_icons=true&theme=radical&layout=compact&width=200px)&nbsp;
 ![Ashlesh Khajbage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleshk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-<div id="github-stat">
-  
-
-  </div>
 
  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
