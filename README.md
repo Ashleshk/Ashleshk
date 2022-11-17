@@ -10,7 +10,7 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
 
 [:mailbox:] I always believe that i will learn something new from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/ashlesh-khajbage-194a89166/) or feel free to throw me a letter via ashleshuk@gmail.com.
 
-![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
+![githubbadge](https://img.shields.io/github/followers/Ashleshk?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashleshuk@gmail.com)](mailto:ashleshuk@gmail.com)
 <a href="https://www.facebook.com/ashlesh.khajbage/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/ashleshkhajbage/)](https://www.kaggle.com/ashleshkhajbage)
