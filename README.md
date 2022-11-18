@@ -41,7 +41,7 @@ Work Experience:
   - [Fire Detection using keras]()
   - [Fake Job Detection](https://github.com/Ashleshk/Mini-Projects/tree/main/Fake%20Job%20Detection)
   - [Semantic Segmentation of the lungs from X-ray images](https://github.com/Ashleshk/Mini-Projects/tree/main/Semantic-Segmentation-of-lungs-using-Xray-Image)
-  - [Multi-Class Sentiment Analysis from Tweets]()
+  - [Multi-Class Sentiment Analysis from Tweets](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
 
    ---
   
