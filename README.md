@@ -20,7 +20,7 @@ Welcome to my profile😊 , I hope the studies I present will be helpful to you�
 <img src="https://komarev.com/ghpvc/?username=ashleshk" alt="ashleshK" />
 
 ---
-  
+<!--  
  ### :four_leaf_clover: Area of Strength:
 • solid foundation in mathematics including calculus, linear algebra, and probability & statistics; mastering skills such as regression, classification, clustering, dimension reduction, hypothesis testing, and A/B testing
   
@@ -29,7 +29,7 @@ Welcome to my profile😊 , I hope the studies I present will be helpful to you�
 • Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, Hadoop, HDFS, and Spark, Hive, Pig
   
 • Program in Python, Java; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, PowerBI and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras
-
+--> 
    ---
   
   ### :medal_military: Project & Work Experience:
@@ -47,7 +47,7 @@ Work Experience:
   - [Multi-Class Sentiment Analysis from Tweets](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
 
    ---
-  
+<!--  
 ### :hammer_and_wrench: Languages and Tools :
 
 ### Data Science
@@ -155,7 +155,7 @@ Work Experience:
  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
-
+-->
                                                                                               
 ## Find me on:
 <p align="left">
