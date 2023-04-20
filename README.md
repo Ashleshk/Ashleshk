@@ -11,7 +11,7 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
   
 [:man_student:] I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
 
-[:mailbox:] I always believe that i will learn something new from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/ashlesh-khajbage-194a89166/) or feel free to throw me a letter via ashleshuk@gmail.com.
+[:mailbox:] I always believe that i will learn something new from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/ashleshk/) or feel free to throw me a letter via ashleshuk@gmail.com.
 
 ![githubbadge](https://img.shields.io/github/followers/Ashleshk?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashleshuk@gmail.com)](mailto:ashleshuk@gmail.com)
