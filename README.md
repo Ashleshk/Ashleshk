@@ -25,7 +25,7 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
   ### :medal_military: Project & Work Experience:
   
 Work Experience: 
-  - [LTI | Software Engineer - Cloud Services and Software | Java Developer & Premium Analytics Support](https://www.linkedin.com/jobs/view/engineer-cloud-services-and-software-at-lti-larsen-toubro-infotech-2753217111/)
+  - [LTI | Software Engineer - Cloud Analytics | Java Developer & Insurance Analytics](https://www.linkedin.com/jobs/view/engineer-cloud-services-and-software-at-lti-larsen-toubro-infotech-2753217111/)
 
   
   Data Science Project: 
