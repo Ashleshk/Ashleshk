@@ -20,24 +20,6 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
 <img src="https://komarev.com/ghpvc/?username=ashleshk" alt="ashleshK" />
 
 ---
-
-  
-  ### :medal_military: Project & Work Experience:
-  
-Work Experience: 
-  - [LTI | Software Engineer - Cloud Analytics | Java Developer & Insurance Analytics](https://www.linkedin.com/jobs/view/engineer-cloud-services-and-software-at-lti-larsen-toubro-infotech-2753217111/)
-
-  
-  Data Science Project: 
-  - [Object detection of Aerial Imagery](https://github.com/Ashleshk/Object-detection-of-Aerial-Imagery-using-deep-Learning-Algorithm)
-  - [Image-Classfier-Project](https://github.com/Ashleshk/Image-Classifier)
-  - [Fire Detection using keras]()
-  - [Fake Job Detection](https://github.com/Ashleshk/Mini-Projects/tree/main/Fake%20Job%20Detection)
-  - [Semantic Segmentation of the lungs from X-ray images](https://github.com/Ashleshk/Mini-Projects/tree/main/Semantic-Segmentation-of-lungs-using-Xray-Image)
-  - [Multi-Class Sentiment Analysis from Tweets](https://github.com/Ashleshk/Mini-Projects/tree/main/Multi-Class%20Sentiment%20Analysis%20from%20Tweets)
-
-   ---
-
                                                                                               
 ## Find me on:
 <p align="left">
