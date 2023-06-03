@@ -2,7 +2,9 @@
 
 Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
 
-I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Full Time opportunities. I have about 2 years of professional experience as Analyst and I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
+I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Full Time opportunities. 
+
+I have about 2 years of professional experience as Cloud Analytics and I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
 
 
 ### About Me :
