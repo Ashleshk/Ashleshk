@@ -4,10 +4,11 @@ Welcome to my profile😊 , I hope the studies I present will be helpful to you�
 
 I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Full Time opportunities. 
 
-I have about 2 years of professional experience as Cloud Analytics and I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
+I have about 3 years of professional experience as Cloud Analytics and I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
 
 * 🔭 I’m currently working on - **Python, R, Machine Learning, Tableau, SQL, AWS** <br/>
 * 🌱 I’m currently learning - **Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches** <br/>
+* I have hands-on experience working on **Databricks**, **Azure Data Studio** and **Informatica MDM** <br/>
 * 👯 I’m looking to collaborate on - Projects which can use & utilize personalized data to solve real-life problems.<br/>
 
 [:purple_heart:] I will graduate as Data Science from [Illinois Institute of Technology](https://www.iit.edu/), where I take courses including: [Applied Statistics](http://bulletin.iit.edu/search/?P=MATH%20564); Probabilities and Statistics; [Machine Learning](http://bulletin.iit.edu/search/?P=CS%20584); Big Data technologies; [Data Preparation and Analysis](http://bulletin.iit.edu/search/?P=CSP%20571); [Data Science Practicum](http://bulletin.iit.edu/search/?P=CSP%20572); [Deep Learning](http://bulletin.iit.edu/search/?P=CS%20577); Natural Language Processing; [Project Management](http://bulletin.iit.edu/search/?P=SCI%20511); Introduction to Algorithms;Monte Carlo Methods in Fin.
