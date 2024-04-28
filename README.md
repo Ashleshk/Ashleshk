@@ -2,16 +2,31 @@
 
 Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
 
-I'm pursuing a Master's in Data Science with competence in analytical & problem-solving skills, seeking Full Time opportunities. 
+Master's in Data Science graduate with expertise in data engineering, analysis, and science, seeking full-time roles.
 
-I have about 3 years of professional experience as Cloud Analytics and I am endeavoring to play my role as a full-stack data scientist in industries of Finance Services, Media and Entertainment, and Health and Life Sciences. It excites me most when I can make a difference in solving data-driven problems using statistics, ML, DL, NLP, and Big Data techniques.
+With **3 years of professional experience** in both Data Engineering and Analysis, I am eager to transition into a **full-stack Data Engineer** role within the Finance Services, Media and Entertainment, or Health and Life Sciences industries. My passion lies in leveraging ETL tools to solve data-driven problems and make a tangible impact. Alongside my expertise in statistics, machine learning, deep learning, natural language processing, and big data techniques, I am particularly drawn to opportunities in Data Engineering, Data Analysis, or Data Science roles.
 
-* 🔭 I’m currently working on - **Python, R, Machine Learning, Tableau, SQL, AWS** <br/>
-* 🌱 I’m currently learning - **Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches** <br/>
-* I have hands-on experience working on **Databricks**, **Azure Data Studio** and **Informatica MDM** <br/>
-* 👯 I’m looking to collaborate on - Projects which can use & utilize personalized data to solve real-life problems.<br/>
+### Data Engineer Proficiency
+* ETL (Extract, Transform, Load) Tools: **Apache Spark, Apache Airflow, Talend, Informatica PowerCenter, and Microsoft SSIS (SQL Server Integration Services)**.
+* Big Data Platforms: **Apache Hadoop, HDFS, Hive, HBase, Apache Kafka**
+* Data Warehousing Solutions: **Microsoft Azure SQL Data Warehouse, Google BigQuery, Snowflake**.
+* Database Management Systems (DBMS): **PostgreSQL, MySQL, Oracle, Microsoft SQL Server, and MongoDB**.
+* Cloud Platforms: **Microsoft Azure, Google Cloud Platform (GCP), and AWS**.
+* Data Integration and Visualization Tools: **Tableau, Microsoft PowerBI, QlikView, and Looker**.
+* Version Control Systems: **Git**.
+* Programming Languages: **Python, Java, Scala, and SQL**.
 
-[:purple_heart:] I will graduate as Data Science from [Illinois Institute of Technology](https://www.iit.edu/), where I take courses including: [Applied Statistics](http://bulletin.iit.edu/search/?P=MATH%20564); Probabilities and Statistics; [Machine Learning](http://bulletin.iit.edu/search/?P=CS%20584); Big Data technologies; [Data Preparation and Analysis](http://bulletin.iit.edu/search/?P=CSP%20571); [Data Science Practicum](http://bulletin.iit.edu/search/?P=CSP%20572); [Deep Learning](http://bulletin.iit.edu/search/?P=CS%20577); Natural Language Processing; [Project Management](http://bulletin.iit.edu/search/?P=SCI%20511); Introduction to Algorithms;Monte Carlo Methods in Fin.
+### Certifications
+* **Microsoft : Azure Data Engineer Associate** - [link](https://learn.microsoft.com/en-us/users/ashleshkhajbage-7469/credentials/ede1ecb585c4271e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+* **DataBricks : Generative AI Fundamentals** - [link](https://credentials.databricks.com/4de3127c-9ebb-41c8-a984-87564fbe82a9#gs.8mozjl)
+* **DataCamp : Associate Data Analyst** [link](https://www.datacamp.com/completed/statement-of-accomplishment/track/a1554c645eb4bd2b7f054da6212498effe705fee)
+* **DataCamp : Associate Data Scientist** - [link](https://www.datacamp.com/completed/statement-of-accomplishment/track/e8a0d27502b7a57f80a303fba6cc06f7a5329a6b)
+* **Google : Google Data Analytics** - [link](https://www.coursera.org/account/accomplishments/professional-cert/CV9PRFKF7ZYY)
+* **IBM : IBM Data Science** - [link](https://www.coursera.org/account/accomplishments/professional-cert/CV9PRFKF7ZYY)
+* **DeepLearning.ai : Deep Learning & Practical Data Science Specialization** - [link 1](https://www.coursera.org/account/accomplishments/specialization/certificate/BM6JBU7U7DBQ) -[link 2](https://www.coursera.org/account/accomplishments/specialization/certificate/QLVW6L95MR7T)
+
+  
+[:purple_heart:] I hold a Data Science degree from the [Illinois Institute of Technology](https://www.iit.edu/), where I completed a rigorous curriculum covering Applied Statistics, Probabilities and Statistics, Machine Learning, Big Data technologies, Data Preparation and Analysis, Data Science Practicum, Deep Learning, Natural Language Processing, Project Management, Introduction to Algorithms, and Monte Carlo Methods in Finance.
   
 [:mailbox:] I always believe that i will learn something new from others, that's why I appreciate connection! You can connect me on [Linkedin](https://www.linkedin.com/in/ashleshk/) or feel free to throw me a letter via ashleshuk@gmail.com.
 
