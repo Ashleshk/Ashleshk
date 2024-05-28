@@ -4,7 +4,7 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
 
 Master's in Data Science graduate with expertise in data engineering, analysis, and science, seeking full-time roles.
 
-With **3 years of professional experience** in both Data Engineering and Analysis, I am eager to transition into a **full-stack Data Engineer** role within the Finance Services, Media and Entertainment, or Health and Life Sciences industries. My passion lies in leveraging ETL tools to solve data-driven problems and make a tangible impact. Alongside my expertise in statistics, machine learning, deep learning, natural language processing, and big data techniques, I am particularly drawn to opportunities in Data Engineering, Data Analysis, or Data Science roles.
+With **4+ years of professional experience** in both Data Engineering and Analysis, I am eager to transition into a **full-stack Data Engineer** role within the Finance Services, Media and Entertainment, or Health and Life Sciences industries. My passion lies in leveraging ETL tools to solve data-driven problems and make a tangible impact. Alongside my expertise in statistics, machine learning, deep learning, natural language processing, and big data techniques, I am particularly drawn to opportunities in Data Engineering, Data Analysis, or Data Science roles.
 
 ### Data Engineer Proficiency
 * ETL (Extract, Transform, Load) Tools: **Apache Spark, Apache Airflow, Talend, Informatica PowerCenter, and Microsoft SSIS (SQL Server Integration Services)**.
